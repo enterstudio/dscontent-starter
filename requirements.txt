@@ -1,4 +1,4 @@
-ipython==3.0.0
+ipython==4.0
 scipy==0.14.0
 pandas==0.15.2
 matplotlib==1.4.2
@@ -7,7 +7,7 @@ scikit-learn==0.15.2
 numpy==1.9.1
 seaborn==0.5.1
 git+git://github.com/dataquestio/dqauthorkit@HEAD#egg=dqauthorkit
-Jinja2==2.7.3
+Jinja2==2.11.3
 jsonschema==2.4.0
 pyzmq==14.5.0
-tornado==4.1
+tornado==5.1
