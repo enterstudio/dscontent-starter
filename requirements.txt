@@ -10,4 +10,4 @@ git+git://github.com/dataquestio/dqauthorkit@HEAD#egg=dqauthorkit
 Jinja2==2.7.3
 jsonschema==2.4.0
 pyzmq==14.5.0
-tornado==4.1
+tornado==6.3.3
